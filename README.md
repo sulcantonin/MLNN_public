@@ -9,6 +9,8 @@ The framework supports two modes of operation:
 1.  **Deductive (Fixed Structure):** Enforcing user-defined logical guardrails (e.g., grammatical rules, abstention logic).
 2.  **Inductive (Learned Structure):** Learning the accessibility relation ($A_\theta$) between worlds from data (e.g., learning trust networks in multi-agent games).
 
+![Schema](schema.png "Schema")
+
 -----
 
 ## 📂 Repository Structure
