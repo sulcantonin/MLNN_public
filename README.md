@@ -1,7 +1,3 @@
-Here is a comprehensive `README.md` designed for your repository. It organizes the files you provided into logical sections corresponding to the experiments in the `MLNN.pdf` paper, provides installation instructions, and explains how to run each component.
-
------
-
 # Modal Logical Neural Networks (MLNN)
 
 This repository contains the official implementation and experiments for the paper **"Modal Logical Neural Networks"**.
